@@ -2,7 +2,7 @@
 """
 Created on Tue Jan 28 22:15:44 2020
 
-@author: Saqib
+@author: Sharjeel Akram
 """
 import numpy as np  #importing libraries here.
 class test:
